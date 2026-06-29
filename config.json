@@ -1,0 +1,24 @@
+{
+  "location": {
+    "city": "Dąbrowa Górnicza",
+    "radius_km": 30
+  },
+  "check_interval": 60,
+  "models": {
+    "iphone 17 pro max": 5000,
+    "iphone 17 pro": 4500,
+    "iphone 17": 3500,
+
+    "iphone 16 pro max": 3000,
+    "iphone 16 pro": 2800,
+    "iphone 16": 1500,
+
+    "iphone 15 pro max": 2100,
+    "iphone 15 pro": 1900,
+    "iphone 15": 1200,
+
+    "iphone 14 pro max": 1500,
+    "iphone 14 pro": 1400,
+    "iphone 14": 900
+  }
+}
