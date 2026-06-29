@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+lxml
+geopy
+python-telegram-bot==22.2
